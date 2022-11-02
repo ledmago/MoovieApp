@@ -1,0 +1,16 @@
+{
+    "-1": "Yetkilendirme hatası",
+    "0": "Birşeyler ters gitti.",
+    "1": "One of the parameter is misisng",
+    "4": "İsminiz geçerli değil, 2 ila 20 karakter arasında olmalıdır.",
+    "5": "İsminiz geçerli değil, 2 ila 20 karakter arasında olmalıdır.",
+    "6": "Soyisminiz geçerli değil, 2 ila 20 karakter arasında olmalıdır.",
+    "7": "İsminiz geçerli değil, 2 ila 20 karakter arasında olmalıdır",
+    "8": "Şifreniz geçerli değil, 8 ile 25 karater uzunluğunda olmalı ve en az bir karakter içermelidir.",
+    "9": "Bu kullanıcı adı daha önceden alınmış",
+    "10": "Bu email ile daha önceden kayıt olunmuş",
+    "11": "Email is not valid",
+    "12": "Yaşınız en küçük 8 olmalıdır",
+    "13": "Email or Password wrong",
+    "14": "Kategori bulunmadı"
+}

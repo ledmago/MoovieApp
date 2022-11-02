@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/01c04864-20e2-4dad-88cc-0388e53e9307/resourceGroups/maze/providers/Microsoft.Web/sites/cryptomelih",
+    "appService.deploySubpath": "."
+}
